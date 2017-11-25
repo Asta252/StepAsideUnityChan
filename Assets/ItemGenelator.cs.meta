@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 528670d45c8468348b09e5c79eeadf91
+timeCreated: 1511174602
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - carPrehab: {fileID: 1185183779838404, guid: e67fc75f24324034cb2890a291b9a42e,
+      type: 2}
+  - conePrehab: {fileID: 1210022084685114, guid: 55b8551a93b32b84bb72ad99a78c344c,
+      type: 2}
+  - coinPrehab: {fileID: 1613813587067148, guid: 58cbb3a4659f27c469ce06e25feee39b,
+      type: 2}
+  - unitychan: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
